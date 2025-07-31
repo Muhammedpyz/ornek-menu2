@@ -22,6 +22,7 @@ Projeyi klonladıktan sonra doğrudan tarayıcıda açabilirsin:
 ```bash
 git clone https://github.com/Muhammedpyz/ornek-menu2.git
 cd ornek-menu2
+```
 index.html dosyasını bir tarayıcıda açman yeterlidir.
 
 🔍 Yapı
